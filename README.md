@@ -1,5 +1,7 @@
 # Welcome to the CineMetrics: Netflix Analysis
 
+[Banner](https://github.com/imfap1/Project-IV/blob/main/figures/netflix-banner.jpg)
+
 ## Overview
 
 Welcome to "CineMetrics: Netflix Analysis," the streamlined tool for exploring Netflix's content trends. Dive into visual data stories about what's new, who's watching, and which genres are in the spotlight. Perfect for anyone keen on the world of streaming analytics.
@@ -30,6 +32,8 @@ In this Tableau workbook, you'll find a bunch of cool, easy-to-understand charts
 It's like having a map that guides you through Netflix's world. Whether you're just curious or really into data, you'll find something interesting here. It's all about making sense of Netflix's huge collection in a simple and fun way.
 
 [>Here<](https://public.tableau.com/app/profile/felix.antonio.perez.perez/viz/CineMetricsNetflixAnalysis/NetflixStoryPoints)
+
+[Imagen](https://github.com/imfap1/Project-IV/blob/main/figures/Intro.png)
 
 
 
