@@ -1,6 +1,6 @@
 # Welcome to the CineMetrics: Netflix Analysis
 
-[Banner](https://github.com/imfap1/Project-IV/blob/main/figures/netflix-banner.jpg)
+![Banner](https://github.com/imfap1/Project-IV/blob/main/figures/netflix-banner.jpg)
 
 ## Overview
 
@@ -33,7 +33,7 @@ It's like having a map that guides you through Netflix's world. Whether you're j
 
 [>Here<](https://public.tableau.com/app/profile/felix.antonio.perez.perez/viz/CineMetricsNetflixAnalysis/NetflixStoryPoints)
 
-[Imagen](https://github.com/imfap1/Project-IV/blob/main/figures/Intro.png)
+![Imagen](https://github.com/imfap1/Project-IV/blob/main/figures/Intro.png)
 
 
 
