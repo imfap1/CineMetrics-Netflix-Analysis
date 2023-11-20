@@ -1,6 +1,6 @@
 # Welcome to the CineMetrics: Netflix Analysis
 
-[Banner](https://github.com/imfap1/Project-IV/blob/main/figures/netflix-banner.jpg)
+![Banner](https://github.com/imfap1/Project-IV/blob/main/figures/netflix-banner.jpg)
 
 ## Overview
 
